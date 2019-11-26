@@ -1,0 +1,15 @@
+title: "ACMC2020: Inclusion"
+description: The Australasian Computer Music Conference
+sitename: ACMC2020
+baseurl: '/acmc2020'
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
