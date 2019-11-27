@@ -11,4 +11,5 @@ We're responsible for organising ACMC2020 and selecting the program, but we rely
 - [Ben Swift](https://benswift.me) - General Chair
 - [Nat Grant](http://www.natgrantmusic.com) - Inclusion Chair 
 - [Charles Martin](https://charlesmartin.com.au) - Paper and Artist Talk Chair
+- [Kit Devine](http://kitdevine.com) - Installation and Visuals Chair
 - [Alexander Hunter](https://www.alexanderhunter.com.au) - Music and Performance Chair
