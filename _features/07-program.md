@@ -4,15 +4,17 @@ name: Program
 heading: Program
 ---
 
-Here's an indicative program of events for ACMC2020 --- full program to follow closer to the event.
+All dates in July 2020.
 
-| Day                   | Thing                                    | Location                                |
-|-----------------------|------------------------------------------|-----------------------------------------|
-| Tuesday 7/7 (day)     | Schools and youth sessions               | ANU Research School of Computer Science |
-| Wednesday 8/7 (day)   | Schools and youth sessions               | ANU Research School of Computer Science |
-| Wednesday 8/7 (night) | Welcome reception, keynote and concert   | TBA                                     |
-| Thursday 9/7 (day)    | Papers, artist talks, lunchtime concert  | ANU School of Music                     |
-| Thursday 9/7 (night)  | Concert (ANU), New Interface Night (TBA) | TBA                                     |
-| Friday 10/7 (day)     | Papers, artist talks, lunchtime concert  | ANU School of Music                     |
-| Friday 10/7 (night)   | Concert (ANU), Algorave (TBA)            | TBA                                     |
-| Saturday 11/7 (day)   | Workshops and Community Day              | ANU School of Music                     |
+Note: this is a draft program---full program to come closer to the event.
+
+| date | day | time  | activity                                 | location                                |
+|------|-----|-------|------------------------------------------|-----------------------------------------|
+|    7 | Tue | day   | schools and youth sessions               | ANU Research School of Computer Science |
+|    8 | Wed | day   | schools and youth sessions               | ANU Research School of Computer Science |
+|    8 | Wed | night | welcome reception, keynote and concert   | TBA                                     |
+|    9 | Thu | day   | papers, artist talks, lunchtime concert  | ANU School of Music                     |
+|    9 | Thu | night | concert (ANU), New Interface Night (TBA) | TBA                                     |
+|   10 | Fri | day   | papers, artist talks, lunchtime concert  | ANU School of Music                     |
+|   10 | Fri | night | concert (ANU), Algorave (TBA)            | TBA                                     |
+|   11 | Sat | day   | workshops and Community Day              | ANU School of Music                     |
