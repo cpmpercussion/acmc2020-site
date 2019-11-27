@@ -2,7 +2,7 @@
 id: submission
 name: Submissions
 heading: Submissions
-image: "http://placehold.it/500x500"
+image: "assets/images/lens-soundscapes-1.jpg"
 ---
 
 How to submit to ACMC2020
