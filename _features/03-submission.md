@@ -6,7 +6,7 @@ heading: Submissions
 
 <!-- image: "assets/images/lens-soundscapes-1.jpg" -->
 
-Submission to ACMC will be through an EasyChair website (not yet open). You are welcome to send preliminary questions or inquiries about your submission idea, joining the review team, or suggestions for embracing inclusion in our community by email [acmc@computermusic.org.au](acmc@computermusic.org.au), or through the following form:
+Submission to ACMC will be through an EasyChair website (not yet open). You are welcome to send preliminary questions or inquiries about your submission idea, joining the review team, or suggestions for embracing inclusion in our community by email [conference@computermusic.org.au](conference@computermusic.org.au), or through the following form:
 
 <form
   action="https://formspree.io/xgevebok"

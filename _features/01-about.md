@@ -25,9 +25,8 @@ from 15 December 2019** with the opportunity to **provide feedback** and
 **engage in conversation** with all interested participants. Further calls will
 be published in 2020. Submissions should be made through the EasyChair
 conference system, but questions or ideas over email
-([acmc@computermusic.org.au](acmc@computermusic.org.au)) or to the individual
+([conference@computermusic.org.au](conference@computermusic.org.au)) or to the individual
 organisers (listed below) are welcome!
-======= end
 
 Please note that multiple submissions (e.g., a performance, an artist talk, and a workshop) are possible and encouraged.
 
