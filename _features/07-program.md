@@ -2,6 +2,7 @@
 id: program
 name: Program
 heading: Program
+image: "assets/images/llewellyn-hall-stage.jpg"
 ---
 
 All dates in July 2020.

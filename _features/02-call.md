@@ -2,6 +2,7 @@
 id: call-for-contributions
 name: Call for Contributions
 heading: Call for Contributions
+image: "assets/images/studio-composing.jpg"
 ---
 
 We invite submissions of performances, installations and musical works, papers
