@@ -30,8 +30,9 @@ electroacoustic music including the following categories:
 
 - video and multimedia works (up to 8 channels)
 
-This call is open to all composers, regardless of nationality, age or career
-stage.
+This call is open to all composers, regardless of nationality, age or
+career stage. Composers of selected works are generally expected to
+attend the conference.
 
 ### Installations
 
@@ -40,11 +41,11 @@ National University School of Music, and Research School of Computer Science,
 these will be installed for the duration of the conference. These could be sound
 art works, multimedia works, sonic sculptures or self-playing systems.
 
-Our current installation locations are:
+<!-- Our current installation locations are: -->
 
-- Listening Space
-- Llewellyn Hall Stairwell
-- Hanna Neumann Building Foyer
+<!-- - Listening Space -->
+<!-- - Llewellyn Hall Stairwell -->
+<!-- - Hanna Neumann Building Foyer -->
 
 ### Research Papers & Artist Talks
 
@@ -53,24 +54,27 @@ talks. These could relate to musical performances above or any of the topics
 listed below. All extended abstracts will be subject to single-blind review by
 at least two peer reviewers.
 
-Accepted papers/talks will be presented in either short (10) or long (25
-minutes) seminar format and the extended abstracts will be included in the
-conference proceedings. Full versions of accepted papers will be invited for
-further review and publication in Chroma, the journal of the Australasian
-Computer Music Association.
+Accepted papers/talks will be presented in either short (10) or long
+(25 minutes) seminar format and the extended abstracts will be
+included in the conference proceedings. Full versions of accepted
+papers will be invited for further peer review and publication in
+Chroma, the journal of the Australasian Computer Music Association.
 
 ### Workshops and Tutorials
 
-We invite contributed workshops and tutorials to take place on Saturday 11 July
-at the ANU School of Music. Workshops and tutorials could be about the topics
-listed below and we make a particular call for workshops that are inclusive of
-the broad electronic music community.
+We invite contributed workshops and tutorials to take place on
+Saturday 11 July at the ANU School of Music. Workshops and tutorials
+could be about the topics listed below and we make a particular call
+for workshops that are inclusive of the broad electronic music
+community.
 
-Workshops will be included in the conference promotional materials and program.
-Workshops and tutorials will be selected by the conference committee. Venues and
-facilities will include seminar rooms and the protools lab at the ANU School of
-Music. We are aiming for short workshops (60 minutes) to enable as many as
-possible.
+Workshops will be included in the conference promotional materials and
+program. Workshops and tutorials will be selected by the conference
+committee. Venues and facilities will include seminar rooms and the
+music computing lab at the ANU School of Music. We are aiming for
+short workshops (60 minutes) to enable as many as possible. We invite
+you to get in touch to discuss workshop requirements before
+submitting.
 
 ## Topics
 
