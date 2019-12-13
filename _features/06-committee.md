@@ -16,6 +16,7 @@ teachers, programmers, and elsewhere.
 - [Charles Martin](https://charlesmartin.com.au) - Paper and Artist Talk Chair
 - [Kit Devine](http://kitdevine.com) - Installation and Visuals Chair
 - [Alexander Hunter](https://www.alexanderhunter.com.au) - Music and Performance Chair
+- [Sia Ahmad](https://shoebahmad.wordpress.com) - Local Venues Chair
 
 We're responsible for organising ACMC2020 and selecting the program, but we rely
 on a team of reviewers to evaluate submissions fairly. **If you want to be a
