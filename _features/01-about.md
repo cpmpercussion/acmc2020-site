@@ -35,4 +35,4 @@ those who find that cost is a barrier for participation.
 
 Looking forward to your submissions!
 
-_Ben Swift, Charles Martin, Nat Grant, Alec Hunter, Kit Devine (ACMC committee)_
+_Ben Swift, Charles Martin, Nat Grant, Alec Hunter, Kit Devine, Sia Ahmad (ACMC committee)_
