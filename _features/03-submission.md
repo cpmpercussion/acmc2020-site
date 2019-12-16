@@ -8,23 +8,38 @@ heading: Submissions
 
 Submission to ACMC will be through an EasyChair website (not yet open). You are welcome to send preliminary questions or inquiries about your submission idea, joining the review team, or suggestions for embracing inclusion in our community by email [conference@computermusic.org.au](conference@computermusic.org.au), or through the following form:
 
+<!-- <form -->
+<!--   action="https://formspree.io/xgevebok" -->
+<!--   method="POST" -->
+<!-- > -->
+<!--   <label> -->
+<!--     Your email:<br /> -->
+<!--     <input type="text" name="_replyto"> -->
+<!--   </label> -->
+<!--   <br /> -->
+<!--   <label> -->
+<!--     Your message:<br /> -->
+<!--     <textarea name="message"></textarea> -->
+<!--   </label> -->
+<!--   <\!-- your other form fields go here -\-> -->
+<!--   <br /> -->
+<!--   <button type="submit">Send</button> -->
+<!-- </form> -->
+
 <form
   action="https://formspree.io/xgevebok"
   method="POST"
 >
-  <label>
-    Your email:<br />
-    <input type="text" name="_replyto">
-  </label>
-  <br />
-  <label>
-    Your message:<br />
-    <textarea name="message"></textarea>
-  </label>
-
-  <!-- your other form fields go here -->
-  <br />
-  <button type="submit">Send</button>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Email address</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" name="_replyto">
+    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+  </div>
+  <div class="form-group">
+    <label for="exampleFormControlTextarea1">Your message</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="5" name="message"></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary">Send</button>
 </form>
 
 Note that we also answer questions on comments on twitter, where we will use [#acmc2020]() to tag our discussions.
