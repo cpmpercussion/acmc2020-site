@@ -2,7 +2,7 @@
 id: Committee
 name: Committee
 heading: Committee
-image: "assets/images/lens-people.jpg"
+image: "assets/images/instrument-demo-konserthus.jpg"
 ---
 
 Meet the ACMC Committee! We're a group of academics and artists committed to
