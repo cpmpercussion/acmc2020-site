@@ -7,7 +7,7 @@ heading: About
 The **Australasian Computer Music Conference** will take place at the
 **Australian National University, Canberra**, from **July 8-11, 2020**. ACMC is
 the annual gathering of the [Australasian Computer Music
-Association](https://computermusic.org.au), a place to discuss and showcase and
+Association](https://computermusic.org.au), a place to show and
 discuss research and artistic progress in computer/electronic music. It's a
 festival of performances, installations, workshops, and tutorials that inspire,
 challenge, and showcase our community.
