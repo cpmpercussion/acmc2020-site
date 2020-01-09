@@ -48,5 +48,5 @@ table .heading {
 
 ### Venue key
 
-- **RSCS**: [ANU Research School of Computer Science](https://cs.anu.edu.au)
-- **SoM**: [ANU School of Music](https://music.cass.anu.edu.au)
+- _RSCS_: [ANU Research School of Computer Science](https://cs.anu.edu.au)
+- _SoM_: [ANU School of Music](https://music.cass.anu.edu.au)
