@@ -18,8 +18,8 @@ table .heading {
 <table class="table">
   <thead class="heading">
     <tr>
-      <th>&nbsp;</th>
-      <th>Tue July 7</th>
+      <th>July</th>
+      <th>Tue 7</th>
       <th>Wed 8</th>
       <th>Thu 9</th>
       <th>Fri 10</th>
