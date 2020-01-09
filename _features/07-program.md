@@ -8,14 +8,15 @@ image: "assets/images/llewellyn-hall-stage.jpg"
 _Note: this is a draft program---full program to come closer to the event._
 
 <style>
-table .indexcol {
+table .heading {
   padding: 8px;
   font-weight: bold;
+  text-align: right;
 }
 </style>
 
 <table class="table">
-  <thead class="thead-dark">
+  <thead class="heading">
     <tr>
       <th>&nbsp;</th>
       <th>Tue July 7</th>
@@ -27,7 +28,7 @@ table .indexcol {
   </thead>
   <tbody>
     <tr>
-      <td class="indexcol">day</td>
+      <td class="heading">day</td>
       <td>schools &amp; youth workshops (<em>RSCS</em>)</td>
       <td>schools &amp; youth workshops (<em>RSCS</em>)</td>
       <td>papers, artist talks, lunchtime concert (<em>SoM</em>)</td>
@@ -35,7 +36,7 @@ table .indexcol {
       <td>workshops &amp; community day (<em>SoM</em>)</td>
     </tr>
     <tr>
-      <td class="indexcol">night</td>
+      <td class="heading">night</td>
       <td>&nbsp;</td>
       <td>welcome reception, keynote and concert</td>
       <td>concert (<em>ANU</em>)<br>New Interface Night (<em>TBA</em>)</td>
