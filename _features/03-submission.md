@@ -99,4 +99,4 @@ The details of this call are to be advised over the coming weeks.
   <button type="submit" class="btn btn-primary">Send</button>
 </form>
 
-Note that we also answer questions on comments on twitter, where we will use [#acmc2020]() to tag our discussions.
+Note that we also answer questions on comments on twitter, where we will use [#acmc2020](https://twitter.com/search?q=%23acmc2020) to tag our discussions.
