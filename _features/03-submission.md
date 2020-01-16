@@ -31,7 +31,7 @@ The submission document must include the following information:
 - Program Note
 - Link to Documentation
 - Technical Requirements
-- Bios
+- Bio(s)
 
 Performance, Music and Installation submissions will be reviewed by at least two anonymous peer reviewers (single-blind review). Accepted submissions will be subject to further agreement on technical requirements and duration and the program notes will be included in the conference proceedings.
 
@@ -43,7 +43,7 @@ The submission document must include the following information:
 - Author(s)
 - Abstract
 - Supporting Material
-- Bios
+- Bio(s)
 
 Research paper and artist talk submissions will be reviewed by at least two anonymous peer reviewers (single-blind review). Accepted papers/talks will be presented in either short (10) or long (20 minutes) seminar format and the abstracts will be included in the conference proceedings.
 
@@ -56,7 +56,7 @@ The submission document must include the following information:
 - Description
 - Supporting Material
 - Technical Requirements
-- Bios
+- Bio(s)
 
 Workshop and tutorial submissions will be curated by the ACMC2020 committee. Accepted workshops/tutorials will be subject to further agreement on presentation format and technical requirements.
 
