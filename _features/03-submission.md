@@ -6,9 +6,9 @@ heading: Submissions
 
 <!-- image: "assets/images/lens-soundscapes-1.jpg" -->
 
-Submission to ACMC is through the [EasyChair website](https://easychair.org/conferences/?conf=acmc2020). You are welcome to send preliminary questions or inquiries about your submission idea, joining the review team, or suggestions for embracing inclusion in our community by email [conference@computermusic.org.au](conference@computermusic.org.au), or through the following form:
+Submission to ACMC is through the [EasyChair website](https://easychair.org/conferences/?conf=acmc2020). You are welcome to send preliminary questions or inquiries about your submission idea, joining the review team, or suggestions for embracing inclusion in our community by email [conference@computermusic.org.au](conference@computermusic.org.au), or through the contact form below.
 
-Submission Website (EasyChair): [https://easychair.org/conferences/?conf=acmc2020](https://easychair.org/conferences/?conf=acmc2020)
+**Submission Website (EasyChair)**: [https://easychair.org/conferences/?conf=acmc2020](https://easychair.org/conferences/?conf=acmc2020)
 
 ## Submission Format
 
@@ -59,6 +59,15 @@ The submission document must include the following information:
 - Bios
 
 Workshop and tutorial submissions will be curated by the ACMC2020 committee. Accepted workshops/tutorials will be subject to further agreement on presentation format and technical requirements.
+
+### Inclusion Support and Early Feedback
+
+This year we're making extra efforts to include a more diverse range of ACMC artists and scholars; we understand that submitting to an academic conference can be intimidating! 
+If you need some extra support navigating submission to ACMC, we are here to help! Up until 28 February we are able to give feedback on draft submissions, particularly from those outside of academic/mainstream institutions.
+If this applies to you, get in touch over email ([conference@computermusic.org.au](conference@computermusic.org.au)) with your draft submission and we will arrange feedback from one of the committee members. 
+Your submission will not be reviewed by anyone who has given feedback through this arrangement.
+
+After submissions are reviewed there will be a call for support for contributors who might have difficulty attending the conference. The detail of this call are to be advised over the coming weeks.
 
 ## Deadlines and Important Dates
 
