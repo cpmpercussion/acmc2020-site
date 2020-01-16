@@ -69,15 +69,16 @@ Up until 28 February we are able to give feedback on draft submissions, particul
 If this applies to you, get in touch over email ([conference@computermusic.org.au](conference@computermusic.org.au)) with your draft submission and we will arrange feedback from one of the committee members. 
 Your submission will not be reviewed by anyone who has given feedback through this arrangement.
 
-After submissions are reviewed there will be a call for inclusion support for contributors who might have difficulty attending the conference. 
+After submissions are reviewed there will be a call for inclusion support for contributors who might have difficulty attending the conference.
+Selection will be by the conference committee and prioritise contributors with an accepted submission who would not be able to attend without extra support. 
 The details of this call are to be advised over the coming weeks.
 
 ## Deadlines and Important Dates
 
 - Deadline for Early Feedback: **28 February 2020** 23:59 (Anywhere on Earth)
 - Deadline for Submission (Papers/Talks, Musical Works, Installations, Workshops): **13 March 2020** 23:59 (Anywhere on Earth)
-- Approximate date for acceptance notifications: **24 April** 2020
-- Deadline for call for inclusion support: **1 May** 2020 23:59 (Anywhere on Earth)
+- Approximate date for acceptance notifications: **24 April 2020**
+- Deadline for call for inclusion support: **1 May 2020** 23:59 (Anywhere on Earth)
 - Conference! **8-11 July 2020**
 
 ## Contact Point for Questions

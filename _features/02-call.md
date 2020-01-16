@@ -55,7 +55,7 @@ listed below. All extended abstracts will be subject to single-blind review by
 at least two peer reviewers.
 
 Accepted papers/talks will be presented in either short (10) or long
-(25 minutes) seminar format and the extended abstracts will be
+(20 minutes) seminar format and the extended abstracts will be
 included in the conference proceedings. Full versions of accepted
 papers will be invited for further peer review and publication in
 Chroma, the journal of the Australasian Computer Music Association.
