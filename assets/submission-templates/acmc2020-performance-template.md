@@ -18,8 +18,8 @@ reviewers with information about its motivation and realisation
 links to supporting material, e.g. website or DropBox link with documentation
 of this work
 
-**Note: a link to supporting material is required for performance/music or
-installation submissions**
+_note: a link to supporting material is required for performance/music or
+installation submissions_
 
 ## Technical Requirements
 
@@ -33,8 +33,8 @@ what are your:
 
 - tech/gear required (e.g., number of speakers, channels, cables, specific lighting, video requirements)
 
-**Note: all tech requirements are subject to available equipment and
-venues**
+_note: all tech requirements are subject to available equipment and
+venues_
 
 ## Bios
 

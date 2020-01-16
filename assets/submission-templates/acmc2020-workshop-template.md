@@ -29,9 +29,9 @@ what are your:
 
 - tech/gear required (e.g., number of speakers, channels, cables, specific lighting, video requirements)
 
-**Note: all tech requirements are subject to available equipment and
+_note: all tech requirements are subject to available equipment and
 venues---workshops will (in general) take place in typical university classrooms
-with projector and stereo PA system**
+with projector and stereo PA system_
 
 ## Bios
 
