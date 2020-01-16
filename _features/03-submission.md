@@ -10,7 +10,7 @@ Submission to ACMC is through the [EasyChair website](https://easychair.org/conf
 
 **Submission Website (EasyChair)**: [https://easychair.org/conferences/?conf=acmc2020](https://easychair.org/conferences/?conf=acmc2020)
 
-## Submission Format
+### Submission Format
 
 There are three types of submissions for ACMC2020: (1) Performances, Music and Installations; (2) Research Paper & Artist Talks; and (3) Workshops and Tutorials.
 
@@ -18,11 +18,11 @@ When you submit to through the [EasyChair website](https://easychair.org/confere
 
 You will also need to include a plain text [abstract](https://en.wikipedia.org/wiki/Abstract_(summary)), description of your submission, which can be the same as the abstract/description in your PDF document.
 
-We have provided a **template for each type of submission**, please use these to create your submission document. [Download here]({{site.baseurl}}/assets/ACMC2020-SubmissionTemplates.zip). 
+We have provided a **template for each type of submission**, please use these to create your submission document.
 
 We ask for different information for each type of submission (see below), so please make sure that the format of your submission is correct so that the reviewers can make a full assessment of your work.
 
-### Performances, Music and Installations
+#### Performances, Music and Installations
 
 The submission document must include the following information:
 
@@ -35,7 +35,7 @@ The submission document must include the following information:
 
 Performance, Music and Installation submissions will be reviewed by at least two anonymous peer reviewers (single-blind review). Accepted submissions will be subject to further agreement on technical requirements and duration and the program notes will be included in the conference proceedings.
 
-### Research Paper & Artist Talks
+#### Research Paper & Artist Talks
 
 The submission document must include the following information:
 
@@ -47,7 +47,7 @@ The submission document must include the following information:
 
 Research paper and artist talk submissions will be reviewed by at least two anonymous peer reviewers (single-blind review). Accepted papers/talks will be presented in either short (10) or long (20 minutes) seminar format and the abstracts will be included in the conference proceedings.
 
-### Workshops and Tutorials
+#### Workshops and Tutorials
 
 The submission document must include the following information:
 
@@ -73,7 +73,7 @@ After submissions are reviewed there will be a call for inclusion support for co
 Selection will be by the conference committee and prioritise contributors with an accepted submission who would not be able to attend without extra support. 
 The details of this call are to be advised over the coming weeks.
 
-## Deadlines and Important Dates
+### Deadlines and Important Dates
 
 - Deadline for Early Feedback: **28 February 2020** 23:59 (Anywhere on Earth)
 - Deadline for Submission (Papers/Talks, Musical Works, Installations, Workshops): **13 March 2020** 23:59 (Anywhere on Earth)
@@ -81,7 +81,7 @@ The details of this call are to be advised over the coming weeks.
 - Deadline for call for inclusion support: **1 May 2020** 23:59 (Anywhere on Earth)
 - Conference! **8-11 July 2020**
 
-## Contact Point for Questions
+### Contact Point for Questions
 
 <form
   action="https://formspree.io/xgevebok"
