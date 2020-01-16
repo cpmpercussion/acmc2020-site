@@ -1,8 +1,8 @@
-% ACMC 2020: Performance/Piece/Installation Submission
+% ACMC 2020: Performance/Musical Work/Installation Submission
 
 ## Title
 
-what's the name of your performance/piece/installation?
+what's the name of your performance/work/installation?
 
 ## Artist(s)
 
