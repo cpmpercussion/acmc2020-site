@@ -1,4 +1,4 @@
-% title: ACMC 2020: Performance/Piece/Installation Submission
+% ACMC 2020: Performance/Piece/Installation Submission
 
 ## Title
 

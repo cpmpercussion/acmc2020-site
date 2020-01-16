@@ -1,4 +1,4 @@
-% title: ACMC 2020: Workshop/Tutorial Submission
+% ACMC 2020: Workshop/Tutorial Submission
 
 ## Title
 

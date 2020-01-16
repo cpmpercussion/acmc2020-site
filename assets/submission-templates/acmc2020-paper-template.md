@@ -1,4 +1,4 @@
-% title: ACMC 2020 Research Paper/Artist Talk Submission
+% ACMC 2020 Research Paper/Artist Talk Submission
 
 ## Title
 
