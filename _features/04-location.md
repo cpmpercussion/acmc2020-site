@@ -16,3 +16,5 @@ Science](https://cs.anu.edu.au), [College of Engineering and Computer
 Science](https://cecs.anu.edu.au).
 
 Fun fact: ACMC was [last hosted in Canberra](http://computermusic.org.au/conferences/acmc2010/) in 2010!
+
+Information on accommodation and available facilities for attendees will be provided soon.
