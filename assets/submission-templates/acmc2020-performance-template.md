@@ -2,40 +2,40 @@
 
 ## Title
 
-_what's the name of your performance/piece/installation?_
+what's the name of your performance/piece/installation?
 
 ## Artist(s)
 
-_who are you? how would you like us to refer to you in the program?_
+who are you? how would you like us to refer to you in the program?
 
 ## Program Note
 
-_tell us in 1000 words or less about your work---this is your chance to provide
-reviewers with information about its motivation and realisation_
+tell us in 1000 words or less about your work---this is your chance to provide
+reviewers with information about its motivation and realisation
 
 ## Supporting Material
 
-_links to supporting material, e.g. website or DropBox link with documentation
-of this work_
+links to supporting material, e.g. website or DropBox link with documentation
+of this work
 
 **Note: a link to supporting material is required for performance/music or
 installation submissions**
 
 ## Technical Requirements
 
-_what are your:_
+what are your:
 
-- _space requirements_
+- space requirements
 
-- _performance duration_
+- performance duration
 
-- _performer(s) participating/required_
+- performer(s) participating/required
 
-- _tech/gear required (e.g., number of speakers, channels, cables, specific lighting, video requirements)_
+- tech/gear required (e.g., number of speakers, channels, cables, specific lighting, video requirements)
 
 **Note: all tech requirements are subject to available equipment and
 venues**
 
 ## Bios
 
-_tell us something (up to 100 words) about each artist listed above_
+tell us something (up to 100 words) about each artist listed above

@@ -2,21 +2,21 @@
 
 ## Title
 
-_what's the name of your research paper or artist talk?_
+what's the name of your research paper or artist talk?
 
 ## Author(s)
 
-_who are you? how would you like us to refer to you in the program?_
+who are you? how would you like us to refer to you in the program?
 
 ## Abstract
 
-_tell us in 1000 words or less about your research paper or artist talk (images
-are allowed as well)_
+tell us in 1000 words or less about your research paper or artist talk (images
+are allowed as well)
 
 ## Supporting Material
 
-_links to supporting material, e.g. documentation of compositions or performance_
+links to supporting material, e.g. documentation of compositions or performance
 
 ## Bios
 
-_tell us something (up to 100 words) about each author listed above_
+tell us something (up to 100 words) about each author listed above
