@@ -15,7 +15,7 @@ are allowed as well)
 
 ## Supporting Material
 
-links to supporting material, e.g. documentation of compositions or performance
+links to supporting material, e.g. documentation of composition(s) or performance(s)
 
 ## Bios
 
