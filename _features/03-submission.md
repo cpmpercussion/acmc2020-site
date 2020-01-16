@@ -22,7 +22,9 @@ We have provided a **template for each type of submission**, please use these to
 
 We ask for different information for each type of submission (see below), so please make sure that the format of your submission is correct so that the reviewers can make a full assessment of your work.
 
-#### Performances, Music and Installations
+#### Performances, Musical Works and Installations
+
+Download submission templates: [docx]({{site.baseurl}}{% link assets/submission-templates/acmc2020-performance-template.docx %}), [odt]({{site.baseurl}}{% link assets/submission-templates/acmc2020-performance-template.odt %})
 
 The submission document must include the following information:
 
@@ -33,9 +35,11 @@ The submission document must include the following information:
 - Technical Requirements
 - Bio(s)
 
-Performance, Music and Installation submissions will be reviewed by at least two anonymous peer reviewers (single-blind review). Accepted submissions will be subject to further agreement on technical requirements and duration and the program notes will be included in the conference proceedings.
+Performance, Musical Work and Installation submissions will be reviewed by at least two anonymous peer reviewers (single-blind review). Accepted submissions will be subject to further agreement on technical requirements and duration and the program notes will be included in the conference proceedings.
 
-#### Research Paper & Artist Talks
+#### Research Papers & Artist Talks
+
+Download submission templates: [docx]({{site.baseurl}}{% link assets/submission-templates/acmc2020-paper-template.docx %}), [odt]({{site.baseurl}}{% link assets/submission-templates/acmc2020-paper-template.odt %})
 
 The submission document must include the following information:
 
@@ -48,6 +52,8 @@ The submission document must include the following information:
 Research paper and artist talk submissions will be reviewed by at least two anonymous peer reviewers (single-blind review). Accepted papers/talks will be presented in either short (10) or long (20 minutes) seminar format and the abstracts will be included in the conference proceedings.
 
 #### Workshops and Tutorials
+
+Download submission templates: [docx]({{site.baseurl}}{% link assets/submission-templates/acmc2020-workshop-template.docx %}), [odt]({{site.baseurl}}{% link assets/submission-templates/acmc2020-workshop-template.odt %})
 
 The submission document must include the following information:
 
