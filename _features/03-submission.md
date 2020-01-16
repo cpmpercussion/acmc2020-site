@@ -62,20 +62,23 @@ Workshop and tutorial submissions will be curated by the ACMC2020 committee. Acc
 
 ### Inclusion Support and Early Feedback
 
-This year we're making extra efforts to include a more diverse range of ACMC artists and scholars; we understand that submitting to an academic conference can be intimidating! 
-If you need some extra support navigating submission to ACMC, we are here to help! Up until 28 February we are able to give feedback on draft submissions, particularly from those outside of academic/mainstream institutions.
+This year we're making extra efforts to include a more diverse range of ACMC artists and scholars. 
+
+We understand that submitting to an academic conference can be intimidating, so if you need some extra support navigating submission, we are here to help! 
+Up until 28 February we are able to give feedback on draft submissions, particularly from those outside of academic/mainstream institutions.
 If this applies to you, get in touch over email ([conference@computermusic.org.au](conference@computermusic.org.au)) with your draft submission and we will arrange feedback from one of the committee members. 
 Your submission will not be reviewed by anyone who has given feedback through this arrangement.
 
-After submissions are reviewed there will be a call for support for contributors who might have difficulty attending the conference. The detail of this call are to be advised over the coming weeks.
+After submissions are reviewed there will be a call for inclusion support for contributors who might have difficulty attending the conference. 
+The details of this call are to be advised over the coming weeks.
 
 ## Deadlines and Important Dates
 
-- Deadline for Early Feedback: 28 February 2020 23:59 (Anywhere on Earth)
-- Deadline for Submission (Papers/Talks, Musical Works, Installations, Workshops): 13 March 2020 23:59 (Anywhere on Earth)
-- Approximate date for acceptance notifications: 24 April 2020
-- Deadline for call for inclusion support: 1 May 2020 23:59 (Anywhere on Earth)
-- Conference! 8-10 July 2020
+- Deadline for Early Feedback: **28 February 2020** 23:59 (Anywhere on Earth)
+- Deadline for Submission (Papers/Talks, Musical Works, Installations, Workshops): **13 March 2020** 23:59 (Anywhere on Earth)
+- Approximate date for acceptance notifications: **24 April** 2020
+- Deadline for call for inclusion support: **1 May** 2020 23:59 (Anywhere on Earth)
+- Conference! **8-11 July 2020**
 
 ## Contact Point for Questions
 
