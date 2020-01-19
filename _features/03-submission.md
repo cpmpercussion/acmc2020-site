@@ -6,7 +6,7 @@ heading: Submissions
 
 <!-- image: "assets/images/lens-soundscapes-1.jpg" -->
 
-Submission to ACMC is through the [EasyChair website](https://easychair.org/conferences/?conf=acmc2020). You are welcome to send preliminary questions or inquiries about your submission idea, joining the review team, or suggestions for embracing inclusion in our community by email [conference@computermusic.org.au](conference@computermusic.org.au), or through the contact form below.
+Submission to ACMC is through the [EasyChair website](https://easychair.org/conferences/?conf=acmc2020). You are welcome to send preliminary questions or inquiries about your submission idea, joining the review team, or suggestions for embracing inclusion in our community by emailing [conference@computermusic.org.au](conference@computermusic.org.au), or through the contact form below.
 
 **Submission Website (EasyChair)**: [https://easychair.org/conferences/?conf=acmc2020](https://easychair.org/conferences/?conf=acmc2020)
 
@@ -14,9 +14,9 @@ Submission to ACMC is through the [EasyChair website](https://easychair.org/conf
 
 There are three types of submissions for ACMC2020: (1) Performances, Music and Installations; (2) Research Paper & Artist Talks; and (3) Workshops and Tutorials.
 
-When you submit to through the [EasyChair website](https://easychair.org/conferences/?conf=acmc2020). You will be to select the type of your submission and upload a PDF document with the details which will reviewed by the conference committee and peer-reviewers. 
+When you submit through the [EasyChair website](https://easychair.org/conferences/?conf=acmc2020), you will be asked to select the type of your submission and to then upload a PDF document with the details of your submission for review by the conference committee and peer-reviewers. 
 
-You will also need to include a plain text [abstract](https://en.wikipedia.org/wiki/Abstract_(summary)), description of your submission, which can be the same as the abstract/description in your PDF document.
+You will also need to include a plain text [abstract](https://en.wikipedia.org/wiki/Abstract_(summary))/description of your submission, which can be the same as the abstract/description in your PDF document.
 
 We have provided a **template for each type of submission**, please use these to create your submission document.
 
