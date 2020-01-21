@@ -20,18 +20,19 @@ disability, who are First Nations People, who have low/no income, who are
 engaged in community music making, or who simply work outside of academia and
 mainstream institutions.
 
-As part of these efforts, we will have an **early call for contributions open
-from 15 December 2019** with the opportunity to **provide feedback** and
-**engage in conversation** with all interested participants. Further calls will
-be published in 2020. Submissions should be made through the EasyChair
-conference system, but questions or ideas over email
-([conference@computermusic.org.au](conference@computermusic.org.au)) or to the individual
-organisers (listed below) are welcome!
+As part of these efforts, we now invite submissions with the
+opportunity to **receive feedback** and **engage in conversation**
+with all interested participants. Submissions should be made through
+the EasyChair conference system, but questions or ideas over email
+([conference@computermusic.org.au](conference@computermusic.org.au))
+or to the individual organisers (listed below) are welcome!
 
-Please note that multiple submissions (e.g., a performance, an artist talk, and a workshop) are possible and encouraged.
+Please note that multiple submissions (e.g., a performance, an artist
+talk, and a workshop) are possible and encouraged.
 
-Rego fees TBC, but we are committed to providing low/no-cost access to ACMC for
-those who find that cost is a barrier for participation.
+Registration fees are to be confirmed, but we are committed to
+providing low/no-cost access to ACMC for those who find that cost is a
+barrier for participation.
 
 Looking forward to your submissions!
 
