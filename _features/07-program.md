@@ -15,6 +15,7 @@ table .heading {
 }
 </style>
 
+<div style="overflow-x: scroll;">
 <table class="table">
   <thead class="heading">
     <tr>
@@ -45,6 +46,7 @@ table .heading {
     </tr>
   </tbody>
 </table>
+</div>
 
 ### Venue key
 
