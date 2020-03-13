@@ -6,6 +6,8 @@ heading: Submissions
 
 <!-- image: "assets/images/lens-soundscapes-1.jpg" -->
 
+**NB: Submissions are extended to 23:59 Monday 16/3/2020 (anywhere on earth)**
+
 Submission to ACMC is through the [EasyChair website](https://easychair.org/conferences/?conf=acmc2020). You are welcome to send preliminary questions or inquiries about your submission idea, joining the review team, or suggestions for embracing inclusion in our community by emailing [conference@computermusic.org.au](conference@computermusic.org.au), or through the contact form below.
 
 **Submission Website (EasyChair)**: [https://easychair.org/conferences/?conf=acmc2020](https://easychair.org/conferences/?conf=acmc2020)
@@ -82,7 +84,8 @@ The details of this call are to be advised over the coming weeks.
 ### Deadlines and Important Dates
 
 - Deadline for Early Feedback: **28 February 2020** 23:59 (Anywhere on Earth)
-- Deadline for Submission (Papers/Talks, Musical Works, Installations, Workshops): **13 March 2020** 23:59 (Anywhere on Earth)
+- Deadline for Submission (Papers/Talks, Musical Works, Installations, Workshops): **13 March 2020** 23:59 (Anywhere on Earth) - **NB: Submissions are extended to 23:59 Monday 16/3/2020 (anywhere on earth)**
+
 - Approximate date for acceptance notifications: **24 April 2020**
 - Deadline for call for inclusion support: **1 May 2020** 23:59 (Anywhere on Earth)
 - Conference! **8-11 July 2020**
