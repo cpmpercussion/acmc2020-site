@@ -4,7 +4,11 @@ name: About
 heading: About
 ---
 
+{:.info-box}
 **NB: Submissions are extended to 23:59 Monday 16/3/2020 (anywhere on earth)**
+
+{:.attn-box}
+**ACMC20 and COVID-19**: Currently, the plan is that ACMC will proceed in Canberra as scheduled. The committee will continue to monitor advice from our institution and others and will provide an update if this situation changes.
 
 The **Australasian Computer Music Conference** will take place at the
 **Australian National University, Canberra**, from **July 8-11, 2020**. ACMC is

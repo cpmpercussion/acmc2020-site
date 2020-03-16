@@ -61,4 +61,74 @@ main {
       }
     }
   }
+
+  // Boxes from COMP2300
+
+  // nice callout boxes
+  // colours follow the anu style guide: http://webpublishing.anu.edu.au/web-style-guide/style-sampler.php
+  $errorColour: #f00;
+  $warnColour: #fc3;
+  $infoColour: #3498db;
+  $successColour: #2ecc71;
+
+  // these are my own custom colours
+  $thinkColour: #e84393;
+  $talkColour: #1abc9c;
+  $pushColour: #d35400;
+  $extensionColour: #9b59b6;
+  $attentionColour: #ff5100;
+  $noteColour: #b5eb21;
+
+  @mixin lab-content-box ($heading, $colour, $lightenAmount){
+    padding: 10px;
+
+    &::before {
+      background: $colour;
+      color: #fff;
+      padding-left: 1em;
+      content: $heading;
+      display: block;
+      font-weight: 900;
+      margin-bottom: 1em;
+    }
+    background: lighten($colour, $lightenAmount);
+  }
+
+  .error-box {
+    @include lab-content-box("error", $errorColour, 30%);
+  }
+  .attn-box {
+    @include lab-content-box("ATTENTION", $attentionColour, 30%);
+  }
+  .warn-box {
+    @include lab-content-box("warning", $warnColour, 20%);
+  }
+  .info-box {
+    @include lab-content-box("info", $infoColour, 30%);
+  }
+  .success-box {
+    @include lab-content-box("success", $successColour, 25%);
+  }
+  .think-box {
+    @include lab-content-box("think", $thinkColour, 30%);
+  }
+  .talk-box {
+    @include lab-content-box("talk", $talkColour, 40%);
+  }
+  .push-box {
+    @include lab-content-box("push", $pushColour, 25%);
+  }
+  .do-box {
+      @include lab-content-box("do", $pushColour, 25%);
+  }
+  .extension-box {
+    @include lab-content-box("extension", $extensionColour, 30%);
+  }
+  .note-box {
+    @include lab-content-box("note", $noteColour, 25%);
+  }
+
+
 }
+
+
