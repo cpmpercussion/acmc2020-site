@@ -7,8 +7,9 @@ image: "assets/images/anu-panorama-small.jpg"
 
 <!-- image: "assets/images/anu-view.jpg" -->
 
-ACMC2020 will take place at the Australian National University, Canberra, on
-Ngunnawal country. 
+~~ACMC2020 will take place at the Australian National University, Canberra, on
+Ngunnawal country.~~ _Note: see update at the top of page. Although even in
+lockdown the ANU is still on Ngunnawal country._
 
 The conference is hosted by the [ANU School of
 Music](https://music.cass.anu.edu.au) and [Research School of Computer

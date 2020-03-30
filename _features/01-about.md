@@ -1,22 +1,52 @@
 ---
 id: about
 name: About
-heading: About
 ---
 
-{:.info-box}
-**NB: Submissions are extended to 23:59 Monday 16/3/2020 (anywhere on earth)**
+<style>
+#covid19-notice {
+  padding: 1em;
+  background: #ffbe76;
+  margin: 2em 0;
+}
 
-{:.attn-box}
-**ACMC20 and COVID-19**: At present, the plan is that ACMC will proceed in Canberra as scheduled. So far, [the ANU has cancelled public events until 20/6/2020](https://services.anu.edu.au/news-events/precautionary-measures-for-covid-19-on-anu-campuses), but ACMC is scheduled for after that date. The committee will continue to monitor advice from [our institution](https://www.anu.edu.au/news/all-news/covid-19-advice) and [others](https://www.health.act.gov.au) and we intend to behave responsibly with respect to health of our attendees and the public. We will provide an update if this situation changes.
+#covid19-notice::before {
+  background: #f0932b;
+  color: white;
+  padding-left: 1em;
+  content: "COVID-19 update";
+  display: block;
+  font-weight: 900;
+  margin-bottom: 1em;
+}
+</style>
 
-The **Australasian Computer Music Conference** will take place at the
-**Australian National University, Canberra**, from **July 8-11, 2020**. ACMC is
-the annual gathering of the [Australasian Computer Music
-Association](https://computermusic.org.au), a place to show and
-discuss research and artistic progress in computer/electronic music. It's a
-festival of performances, installations, workshops, and tutorials that inspire,
-challenge, and showcase our community.
+<div id="covid19-notice" markdown="1">
+
+Due to the current COVID-19 situation the ACMC 2020 committee has decided to
+cancel this year's conference as an in-person event. We were really looking
+forward to seeing you all in July, but the uncertainty around what things will
+look like by then means that we feel this is the best decision.
+
+We are currently considering options for hosting the conference in an online
+format which will still provide a diverse and inclusive showcase of high quality
+presentations, performances and workshops. If you submitted a proposal (e.g.
+paper, artist talk, performance) to the conference we’ll be in touch ASAP with
+more details about what that looks like.
+
+Stay safe, wash your hands regularly, and keep the dates of July 8--11 in your
+diary for now---we’ll provide an update on what's happening as soon as we can.
+
+</div>
+
+
+The **Australasian Computer Music Conference** will take place ~~at the
+**Australian National University, Canberra**~~, from **July 8-11, 2020**. ACMC
+is the annual gathering of the [Australasian Computer Music
+Association](https://computermusic.org.au), a place to show and discuss research
+and artistic progress in computer/electronic music. It's a festival of
+performances, installations, workshops, and tutorials that inspire, challenge,
+and showcase our community.
 
 This year’s conference theme is **inclusion**. We want to highlight the diverse
 range of people who contribute to Australia’s computer/electronic music culture
