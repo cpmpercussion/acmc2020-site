@@ -23,8 +23,7 @@ name: About
 
 <div id="covid19-notice" markdown="1">
 
-Due to the current COVID-19 situation the ACMC 2020 committee has decided to
-cancel this year's conference as an in-person event. We were really looking
+Due to the current COVID-19 situation, ACMC2020 will not be an in-person event. We were really looking
 forward to seeing you all in July, but the uncertainty around what things will
 look like by then means that we feel this is the best decision.
 
@@ -34,9 +33,8 @@ presentations, performances and workshops. If you submitted a proposal (e.g.
 paper, artist talk, performance) to the conference we’ll be in touch ASAP with
 more details about what that looks like.
 
-Stay safe, wash your hands regularly, and keep the dates of July 8--11 in your
+Stay safe, and keep the dates of July 8--11 in your
 diary for now---we’ll provide an update on what's happening as soon as we can.
-
 </div>
 
 
